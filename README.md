@@ -1,6 +1,5 @@
-SHUBHAM RAHANGDALE
+# 💫 SHUBHAM RAHANGDALE :
 👨‍💻 AI Engineer | Startup Founder<br>🚀 Founder at Perfionix AI | Building real-world GenAI products<br>🧠 AI Intern at Prevoyance IT Solutions<br>⚙️ Skilled in Python, GenAI, LLMs, RAG, LangChain, Flask, MongoDB<br>📦 Shipped multiple AI products; scaling new solutions<br>🎯 Focused on AI copilots, automation, and fintech intelligence
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/perfionix_ai.io?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/shubham-ai-ml)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:programmershubham755@gmail.com) 
